@@ -1,5 +1,5 @@
 # Real estate investments company website
-Project is a website for fake company connected with investing in real estate. I build this project to practice HTML, CSS(mostly GRID as a layout model and animations) using BEM technology and JavaScript. Click [here]() link to see it live.
+Project is a website for fake company connected with investing in real estate. I build this project to practice HTML, CSS(mostly GRID as a layout model and animations) using BEM technology and JavaScript. Click [here](https://martinafm.github.io/website-real-estate/) link to see it live.
 
 
 ## Table of Contents
